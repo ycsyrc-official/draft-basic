@@ -1,5 +1,5 @@
 # draft-basic  [![PyPI Downloads](https://static.pepy.tech/badge/draft-basic)](https://pepy.tech/projects/draft-basic)
-<img width="1594" height="1454" alt="屏幕截图 2025-02-12 173819" src="https://github.com/user-attachments/assets/029ff2b7-5bed-49db-b171-565e953608cb" />
+<img width="1594" height="1454" alt="屏幕截图 2025-02-12 173819 - 副本" src="https://github.com/user-attachments/assets/ae3aae34-c4bf-46da-bf9c-bd53c3666323" />
 
 machine learning third-party library made by ycsyrc(0.16.1)
 
