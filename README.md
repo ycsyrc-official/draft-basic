@@ -1,4 +1,6 @@
 # draft-basic  [![PyPI Downloads](https://static.pepy.tech/badge/draft-basic)](https://pepy.tech/projects/draft-basic)
+![b6fe349cfb221c018c3547195c50c65e](https://github.com/user-attachments/assets/b32191a8-9947-4a13-ad0d-993cdd770d28)
+
 machine learning third-party library made by ycsyrc(0.16.1)
 
 Download method: pip install draft-basic==0.16.1
