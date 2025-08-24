@@ -15,3 +15,5 @@ Up to now, the parameter named 'methods' of the train function which stays in th
 
 You can find how to use the functions in the following URL.
 ([https://mp.weixin.qq.com/s/PD100n7fHLZqnjs0xNkfeg](https://mp.weixin.qq.com/s/-1DdvssA1zLiyph_Jx8C1A))
+
+PYPI:https://pypi.org/manage/project/draft-basic/releases/
